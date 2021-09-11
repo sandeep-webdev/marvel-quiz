@@ -48,6 +48,12 @@ var gamePlay=[
         options:"a) time stone  b) reality stone  c) power stone  d) soul stone\n",
         rightOption:"d",
         rightAnswer:"soul stone"
+    },
+    {
+        question:"black widow character is played by? \n",
+        options:"a) scarlett jhonson  b) anjelina jolie  c) emma watson  d) priyanka chopra\n",
+        rightOption:"a",
+        rightAnswer:"scarlett jhonson"
     }
 ];
 // play(gamePlay[0].question,gamePlay[0].options,gamePlay[0].rightOption,gamePlay[0].rightAnswer);
