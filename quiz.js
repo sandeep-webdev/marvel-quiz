@@ -54,7 +54,7 @@ var gamePlay=[
         options:"a) scarlett jhonson  b) anjelina jolie  c) emma watson  d) priyanka chopra\n",
         rightOption:"a",
         rightAnswer:"scarlett jhonson"
-    }
+    } 
 ];
 // play(gamePlay[0].question,gamePlay[0].options,gamePlay[0].rightOption,gamePlay[0].rightAnswer);
 for(var i=0;i<gamePlay.length;i++){
